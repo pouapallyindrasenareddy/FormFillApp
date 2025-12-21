@@ -5,7 +5,7 @@
     <hr>
     <br>  
 
-    <label for="aadhar"><b>Enter Your Aadhar</b></label>
+    <label for="aadhar"><b>Enter Your Aadhar Number</b></label>
     <input type="text" placeholder="Enter Aadhar" name="aadhar" id="aadhar" required>
     <br>
 
