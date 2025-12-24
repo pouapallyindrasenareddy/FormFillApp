@@ -6,7 +6,7 @@
     <br>  
 
     <label for="Enter Your Mother Name"><b>Mother Name</b></label>
-    <input type="text" placeholder="Mother Name" name="Mother" id="Mother" required>
+    <input type="text" placeholder="Mother Name" name="Mother" id="Mother Name" required>
     <br>
 
 
