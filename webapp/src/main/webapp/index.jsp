@@ -16,7 +16,7 @@
     <br>
 
      <label for="Enter Your  son Name"><b>Mother Name</b></label>
-    <input type="text" placeholder="son Name" name="sona" id="son Name" required>
+    <input type="text" placeholder="son Name" name="soa" id="son Name" required>
     <br>
 
 
