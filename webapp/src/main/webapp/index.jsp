@@ -6,13 +6,13 @@
     <br>  
 
     <label for="Enter Your Mother Name"><b>Mother Name</b></label>
-    <input type="text" placeholder="Mother Name" name="Mother" id="Mother Name" required>
+    <input type="text" placeholder="Enter Mother Name" name="Mother" id="Mother Name" required>
     <br>
 
 
 
     <label for="Enter Your  Father Name"><b>Mother Name</b></label>
-    <input type="text" placeholder="Father Name" name="Mother" id="Mother Name" required>
+    <input type="text" placeholder="Enter Father Name" name="Mother" id="Father  Name" required>
     <br>
 
      <label for="Enter Your  son Name"><b>Mother Name</b></label>
