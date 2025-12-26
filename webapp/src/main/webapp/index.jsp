@@ -21,7 +21,7 @@
 
 
      <label for="Enter Your  Daughter Name"><b>Mother Name</b></label>
-    <input type="text" placeholder="Daughther Name" name="Daughter" id="Daughter Name" required>
+    <input type="text" placeholder="Daughter Name" name="Daughter" id="Daughter Name" required>
     <br>
 
 
