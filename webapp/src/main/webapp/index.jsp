@@ -5,17 +5,7 @@
     <hr>
     <br>  
 
-    <label for="Enter Your Mother Name"><b>Mother Name</b></label>
-    <input type="text" placeholder="Enter Mother Name" name="Mother" id="Mother Name" required>
-    <br>
-
-
-
-    <label for="Enter Your  Father Name"><b>Mother Name</b></label>
-    <input type="text" placeholder="Enter Father Name" name="Mother" id="Father  Name" required>
-    <br>
-
-     <label for="Enter Your  son Name"><b>Mother Name</b></label>
+    <label for="Enter Your  son Name"><b>Mother Name</b></label>
     <input type="text" placeholder="son Name" name="soa" id="son Name" required>
     <br>
 
@@ -23,12 +13,7 @@
      <label for="Enter Your  Daughter Name"><b>Mother Name</b></label>
     <input type="text" placeholder="Daughter Name" name="Daughter" id="Daughter Name" required>
     <br>
-
-
-
-
-
-
+    
     <label for="aadhar"><b>Enter Your Aadhar Number</b></label>
     <input type="text" placeholder="Enter Aadhar" name="aadhar" id="aadhar" required>
     <br>
