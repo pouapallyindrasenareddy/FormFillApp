@@ -9,6 +9,14 @@
     <input type="text" placeholder="son Name" name="soa" id="son Name" required>
     <br>
 
+    <label for="Enter Your  Father Name"><b>Mother Name</b></label>
+    <input type="text" placeholder="Father Name" name="Father" id="Father Name" required>
+    <br>
+
+
+    <label for="Enter Your  Voter ID "><b>Mother Name</b></label>
+    <input type="text" placeholder="Voter ID" name="Voter" id="Voter ID:" required>
+    <br>
 
      <label for="Enter Your  Daughter Name"><b>Mother Name</b></label>
     <input type="text" placeholder="Daughter Name" name="Daughter" id="Daughter Name" required>
