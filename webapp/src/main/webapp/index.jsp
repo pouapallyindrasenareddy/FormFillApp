@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome!! Saidemy DevOps Student Registration Form!!</h1>
+    <h1>Welcome!! Indemy DevOps Student Registration Form!!</h1>
     <p>Please fill in this form for registration Form!!</p>
     <hr>
     <br>  
@@ -9,16 +9,16 @@
     <input type="text" placeholder="son Name" name="soa" id="son Name" required>
     <br>
 
-    <label for="Enter Your  Father Name"><b>Mother Name</b></label>
+    <label for="Enter Your  Father Name"><b>Father Name</b></label>
     <input type="text" placeholder="Father Name" name="Father" id="Father Name" required>
     <br>
 
 
-    <label for="Enter Your  Voter ID "><b>Mother Name</b></label>
+    <label for="Enter Your  Voter ID "><b>Voter ID</b></label>
     <input type="text" placeholder="Voter ID" name="Voter" id="Voter ID:" required>
     <br>
 
-     <label for="Enter Your  Daughter Name"><b>Mother Name</b></label>
+     <label for="Enter Your  Daughter Name"><b>Daughter Name</b></label>
     <input type="text" placeholder="Daughter Name" name="Daughter" id="Daughter Name" required>
     <br>
     
